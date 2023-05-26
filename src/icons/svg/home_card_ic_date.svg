@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_card_ic_date</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#178AFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#178AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-280.000000, -799.000000)">
+            <g id="1备份-3" transform="translate(280.000000, 796.000000)">
+                <g id="home_card_ic_date" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" opacity="0.300000012" x="3" y="14.0329625" width="14" height="4"></rect>
+                    <rect id="矩形" fill="#178AFF" transform="translate(7.878680, 12.654283) rotate(-45.000000) translate(-7.878680, -12.654283) " x="6.87867966" y="10.1542829" width="2" height="5"></rect>
+                    <rect id="矩形" fill="#178AFF" transform="translate(11.060660, 11.593623) rotate(-45.000000) translate(-11.060660, -11.593623) " x="7.06066017" y="10.5936227" width="8" height="2"></rect>
+                    <polyline id="路径" stroke="#178AFF" stroke-width="2" points="14 3 17 3 17 19 3 19 3 3 6.03544907 3"></polyline>
+                    <rect id="矩形" stroke="#178AFF" stroke-width="2" x="7" y="1" width="6" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

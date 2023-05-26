@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user list_btn_ic_examine</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="用户列表" transform="translate(-306.000000, -205.000000)">
+            <g id="操作" transform="translate(280.000000, 142.000000)">
+                <g id="1备份" transform="translate(0.000000, 54.000000)">
+                    <g id="编组-2" transform="translate(26.000000, 6.000000)">
+                        <g id="user-list_btn_ic_examine" transform="translate(0.000000, 3.000000)">
+                            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M8,1 L8,3 L3,3 L3,13 L13,13 L13,8 L15,8 L15,15 L1,15 L1,1 L8,1 Z" id="形状结合"></path>
+                            <path d="M13.5961941,2.6109127 L15.0104076,4.02512627 L7.93933983,11.0961941 L4.40380592,7.56066017 L5.81801948,6.14644661 L7.93880592,8.2679127 L13.5961941,2.6109127 Z" id="形状结合"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

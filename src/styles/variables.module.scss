@@ -1,0 +1,46 @@
+// base color
+$blue: #324157;
+$light-blue: #3a71a8;
+$red: #c03639;
+$pink: #e65d6e;
+$green: #30b08f;
+$tiffany: #4ab7bd;
+$yellow: #fec171;
+$panGreen: #30b08f;
+
+// sidebar
+$menuActiveText: #178aff;
+$menuBg: #f6f8fb;
+$menuText: #1f2028;
+$subMenuHover: rgba(23, 138, 255, 0.1);
+$subMenuBg: transparent;
+
+$subMenuActiveText: #1f2028; // https://github.com/ElemeFE/element/issues/12951
+$menuHover: rgba(23, 138, 255, 0.1);
+$sideBarWidth: 260px;
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  menuActiveText: $menuActiveText;
+  menuBg: $menuBg;
+  menuText: $menuText;
+  subMenuHover: $subMenuHover;
+  subMenuBg: $subMenuBg;
+
+  subMenuActiveText: $subMenuActiveText;
+  menuHover: $menuHover;
+  sideBarWidth: $sideBarWidth;
+}
+// 修改弹窗头部
+::v-deep .el-dialog__header {
+  background: #f7f4fd;
+  margin-right: 0;
+  border-radius: 10px 10px 0 0;
+}
+::v-deep .el-dialog {
+  border-radius: 10px;
+}
+::v-deep .el-form--inline .el-form-item {
+  margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_card_ic_order</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#178AFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#178AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-280.000000, -607.000000)">
+            <g id="1备份-2" transform="translate(280.000000, 604.000000)">
+                <g id="home_card_ic_order" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M12.626386,2 L17,6.4758429 L17,18 L3,18 L3,2 L12.626386,2 Z" id="矩形" stroke="#178AFF" stroke-width="2"></path>
+                    <rect id="矩形" fill="url(#linearGradient-1)" opacity="0.300000012" x="4" y="13" width="12" height="4"></rect>
+                    <rect id="矩形" fill="#178AFF" x="6" y="7" width="8" height="2"></rect>
+                    <rect id="矩形备份-9" fill="#178AFF" x="6" y="11" width="8" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

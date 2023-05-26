@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user list_left_ic_grade</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户列表" transform="translate(-21.000000, -767.000000)">
+            <g id="3" transform="translate(0.000000, 742.000000)">
+                <g id="user-list_left_ic_grade" transform="translate(21.000000, 25.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <polyline id="路径-2" stroke="#178AFF" stroke-width="2" points="5.09401588 13.0310607 4.18183515 18.6611846 10 17.1613116 15.8388165 18.6611846 15.0252063 13.0310607"></polyline>
+                    <path d="M13.8464993,2.15060789 C15.7462385,3.40238432 17,5.55477632 17,8 C17,11.8659932 13.8659932,15 10,15 C7.55477632,15 5.40238432,13.7462385 4.15060789,11.8464993 C5.25469354,12.5758804 6.57781755,13 8,13 C11.8659932,13 15,9.86599325 15,6 C15,4.63079406 14.6068889,3.35340413 13.9273754,2.27453889 Z" id="形状结合" fill="#178AFF" opacity="0.200000003"></path>
+                    <circle id="椭圆形" stroke="#1F2028" stroke-width="2" cx="10" cy="8" r="7"></circle>
+                    <polygon id="路径" fill="#178AFF" fill-rule="nonzero" points="9.98183166 4.91295676 10.9150992 6.8866136 13.0005242 7.20481118 11.490183 8.74172626 11.8463768 10.9129568 9.98183166 9.88765346 8.11728657 10.9129568 8.47348035 8.74172626 6.96313913 7.20481118 9.04856416 6.8866136"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user list_left_ic_transaction</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-20.000000, -687.000000)">
+            <g id="8" transform="translate(0.000000, 662.000000)">
+                <g id="user-list_left_ic_transaction" transform="translate(20.000000, 25.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M20,2 L20,18 L0,18 L0,2 L20,2 Z M18,4 L2,4 L2,16 L18,16 L18,4 Z" id="形状结合" fill="#1F2028"></path>
+                    <rect id="矩形" fill="#C9E2FB" x="2" y="4" width="2" height="12"></rect>
+                    <path d="M18,6 L18,8 L14,8 C12.8954305,8 12,8.8954305 12,10 C12,11.0543618 12.8158778,11.9181651 13.8507377,11.9945143 L14,12 L18,12 L18,14 L14,14 C11.790861,14 10,12.209139 10,10 C10,7.790861 11.790861,6 14,6 L18,6 Z M14,9 C14.5522847,9 15,9.44771525 15,10 C15,10.5522847 14.5522847,11 14,11 C13.4477153,11 13,10.5522847 13,10 C13,9.44771525 13.4477153,9 14,9 Z" id="形状结合" fill="#178AFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

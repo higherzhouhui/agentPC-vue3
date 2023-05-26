@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user list_left_ic_order</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户列表" transform="translate(-22.000000, -907.000000)">
+            <g id="5" transform="translate(0.000000, 882.000000)">
+                <g id="user-list_left_ic_order" transform="translate(22.000000, 25.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="19" height="19"></rect>
+                    <rect id="矩形" fill="#178AFF" x="5" y="0" width="9" height="3"></rect>
+                    <path d="M17,2 L19,19 L0,19 L0.427,15.3670295 L15.0264171,15.3680295 L13.453,1.99902948 L17,2 Z" id="形状结合" fill="#178AFF" opacity="0.200000003"></path>
+                    <path d="M16.1107504,3 L17.8754563,18 L1.12454369,18 L2.88924957,3 L16.1107504,3 Z" id="矩形" stroke="#1F2028" stroke-width="2"></path>
+                    <path d="M9.5,10 C7.18396594,10 5.2765864,8.25034205 5.02754265,6.00070744 L7.05011858,6.00053926 C7.28196209,7.14139074 8.29071157,8 9.5,8 C10.7092884,8 11.7180379,7.14139074 11.9498814,6.00053926 L13.9724574,6.00070744 C13.7234136,8.25034205 11.8160341,10 9.5,10 Z" id="形状结合" fill="#178AFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

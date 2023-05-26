@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_card_ic_money</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#178AFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#178AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-280.000000, -415.000000)">
+            <g id="1备份" transform="translate(280.000000, 412.000000)">
+                <g id="home_card_ic_money" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-4" fill="#C84040" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <polygon id="矩形" fill="url(#linearGradient-1)" opacity="0.300000012" points="4 11 16 11 16 16 10 18.0648367 4 16"></polygon>
+                    <path d="M11.4142136,4.58578644 L12.8284271,6 L11.828,6.99978644 L14,7 L14,9 L11,9 L11,9.99978644 L13,10 L13,12 L11,11.9997864 L11,15 L9,15 L9,11.9997864 L7,12 L7,10 L9,9.99978644 L9,9 L6,9 L6,7 L8.171,6.99978644 L7.17157288,6 L8.58578644,4.58578644 L10,5.99978644 L11.4142136,4.58578644 Z" id="形状结合" fill="#178AFF"></path>
+                    <path d="M16,2 L16,15.3413696 L10.0194348,17.9120318 L4,15.3398413 L4,2 L16,2 Z" id="矩形" stroke="#178AFF" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

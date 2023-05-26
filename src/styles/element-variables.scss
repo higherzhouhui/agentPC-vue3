@@ -1,0 +1,16 @@
+:root {
+  --el-color-primary: #FC708B;
+  --el-button-hover-bg-color: #ee4d6d;
+  --el-table-header-bg-color: #f6f8fb;
+  --el-color-primary-light-1: #d7627a;
+  --el-color-primary-light-2: #d7627a;
+  --el-color-primary-light-3: #d7627a;
+  --el-color-primary-dark-2: #d7627a;
+  --border-color: #e6ebf2;
+  --background: #FC708B;
+  --fontColor: #FC708B;
+  --backgroundHover: #f03358;
+  --buttonBackgroundColor: #FC708B;
+}
+
+@import "element-plus/dist/index.css";

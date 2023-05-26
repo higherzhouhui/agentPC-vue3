@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user list_btn_ic_export</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户列表" transform="translate(-410.000000, -205.000000)">
+            <g id="操作" transform="translate(280.000000, 142.000000)">
+                <g id="1备份-2" transform="translate(120.000000, 54.000000)">
+                    <g id="编组" transform="translate(10.000000, 6.000000)">
+                        <g id="user-list_btn_ic_export" transform="translate(0.000000, 3.000000)">
+                            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M9.9988762,0.996990556 L11.3904923,2.38860665 L15.1577457,6.15586003 L13.7435321,7.57007359 L11,4.82699056 L11,15 L1,15 L1,13 L9,12.9999906 L9,4.77899056 L6.14785161,7.63124734 L4.75623551,6.23963124 L9.9988762,0.996990556 Z" id="形状结合" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
